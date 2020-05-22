@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="/Images/articles.jpg" alt="articles" width="450px" />
+</div>
+
+
 # Artigos
 
 Neste repositório você irá encontrar links para artigos feitos pela nossa comunidade.
