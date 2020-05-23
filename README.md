@@ -11,3 +11,4 @@ Caso queira que o seu artigo seja adicionado aqui, entre em contato com os nosso
 
 * [Tipos de **Tipagem**](https://github.com/Pampa-Devs/articles/blob/master/solid.md)
 * [O que é **SOLID**?](https://github.com/Pampa-Devs/articles/blob/master/typing.md)
+* [.NET 5 - C#9 Novidades](https://medium.com/@felipealmeida_265/net-5-novidades-c-9-ef10584d8e58)
